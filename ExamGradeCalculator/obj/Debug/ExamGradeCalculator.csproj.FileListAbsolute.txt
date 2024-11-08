@@ -1,0 +1,7 @@
+E:\local\ExamGradeCalculator\bin\Debug\ExamGradeCalculator.exe.config
+E:\local\ExamGradeCalculator\bin\Debug\ExamGradeCalculator.exe
+E:\local\ExamGradeCalculator\bin\Debug\ExamGradeCalculator.pdb
+E:\local\ExamGradeCalculator\obj\Debug\ExamGradeCalculator.csproj.AssemblyReference.cache
+E:\local\ExamGradeCalculator\obj\Debug\ExamGradeCalculator.csproj.CoreCompileInputs.cache
+E:\local\ExamGradeCalculator\obj\Debug\ExamGradeCalculator.exe
+E:\local\ExamGradeCalculator\obj\Debug\ExamGradeCalculator.pdb
